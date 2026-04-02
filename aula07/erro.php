@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Erro</title>
+</head>
+<body>
+    <style>
+        body {
+            background: linear-gradient(135deg, #ff6f61, #d6a4a4);
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+        .error-container {
+            background: rgba(0, 0, 0, 0.5);
+            border-radius: 10px;
+            padding: 3rem;
+            max-width: 600px;
+            margin: auto;
+        }
+        .error-title {
+            font-size: 6rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+        }
+        .error-message {
+            font-size: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .btn-primary {
+            background-color: #ff6f61;
+            border-color: #ff6f61;
+        }
+        .btn-primary:hover {
+            background-color: #d9534f;
+            border-color: #d9534f;
+        }
+    </style>
+
+
+    <div class="error-container">
+        <div class="error-title">404</div>
+        <div class="error-message">Oops! The page you're looking for doesn't exist.</div>
+        <a href="index.html
+        " class="btn btn-primary btn-lg">VOLTAR!</a>
+    </div>"
+</body>
+</html>
+
+
