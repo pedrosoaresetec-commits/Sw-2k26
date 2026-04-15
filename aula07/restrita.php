@@ -46,7 +46,8 @@
                         <hr class="divider" />
                     </div>
                     <div class="col-lg-8 align-self-baseline">
-                        <p class="text-white-75 mb-5">Pedro Cabeça Empresas vai te ajudar nos seus problemas, se inscreva:</p>
+                        <p class="text-white-75 mb-5">Pedro Cabeça Empresas vai te ajudar nos seus problemas, conheça nosso administrativo:</p>
+                        <a href = "demo/index.html" class="btn btn-primary">Conhecer</a>
                     </div>
                 </div>
             </div>
@@ -169,9 +170,8 @@ A Pedro Cabeça Empresas tem tudo o que você precisa para colocar seu novo site
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8 col-xl-6 text-center">
-                        <h2 class="mt-0">Vamos nos conectar!</h2>
                         <hr class="divider" />
-                        <p class="text-muted mb-5">Pronto para começar seu próximo projeto conosco? Envie-nos uma mensagem e nós responderemos o mais rápido possível!</p>
+                        <h3 class="text">Pronto para começar seu próximo projeto conosco? Envie-nos uma mensagem e nós responderemos o mais rápido possível!</h3>
                     </div>
                 </div>
                 <div class="row gx-4 gx-lg-5 justify-content-center mb-5">
